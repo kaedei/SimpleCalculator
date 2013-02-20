@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AlexCalculator", "AlexCalculator\AlexCalculator.vbproj", "{EEE8043F-5349-4289-BD8B-2FBC7FBE6F8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE8043F-5349-4289-BD8B-2FBC7FBE6F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE8043F-5349-4289-BD8B-2FBC7FBE6F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE8043F-5349-4289-BD8B-2FBC7FBE6F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE8043F-5349-4289-BD8B-2FBC7FBE6F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
